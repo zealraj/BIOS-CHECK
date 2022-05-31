@@ -1,5 +1,10 @@
 # BIOS-CHECK
 This powershell script will help to check the local BIOS information of your computer and also for the numbers of servers you wanted to 
+
+
+
+
+
 BIOS INFO -SCRIPT WALK THROUGH
 •	Line number 1 to 21 are part of script synopsis. It is a detailed information about how the script works. How it must be run. What input it will accept and what will be the output.
 •	Line 23: $InputFile -> This is a variable to store the full path / relative path to input file. If you want, you can change the value of path according to your preference.
